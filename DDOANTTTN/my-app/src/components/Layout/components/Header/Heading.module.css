@@ -1,0 +1,39 @@
+
+
+.rightTo{
+    text-align: left;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+.maginLR{
+    margin: 0 10px;
+}
+.help{
+    height: 100%;
+    line-height: 40px;
+    font-weight: 500;
+}
+.call{
+    margin-left: 6px;
+    line-height: 40px;
+}
+.smallNav{ 
+    margin-left: 10px;
+    font-size: 16px;
+    color: red;
+    font-weight: 700;
+}
+.boderbottom{
+    border-bottom: 1px solid rgb(187, 183, 183);
+}
+.Navlinkcss{
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: 700;
+    color:white;
+}
+.Navlinkcss:hover{
+    color: rgb(0, 112, 240);
+}
