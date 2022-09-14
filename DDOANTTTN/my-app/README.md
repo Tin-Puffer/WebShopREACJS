@@ -1,6 +1,8 @@
 # Website kinh doanh các mặt hàng cơ khí chính xác
 
-ĐỀ TÀI : xây dựng web site kinh doanh các mặt hàng cơ khí chính xác
+Đề Tài : xây dựng web site kinh doanh các mặt hàng cơ khí chính xác
+Môi Trường : visual code
+ngôn ngữ : Reactjs
 
 ## Nội dung 
 - Thiết kế cơ sở dữ liệu
