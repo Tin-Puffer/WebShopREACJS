@@ -4,6 +4,8 @@
 Môi Trường : visual code
 ngôn ngữ : Reactjs
 
+![alt text](https://iili.io/HhBZ1Ra.png)
+
 ## Nội dung 
 - Thiết kế cơ sở dữ liệu
 - xây dựng giao diện người dùng
